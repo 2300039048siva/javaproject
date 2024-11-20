@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "lib",
+        ""
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\ojdbc11.jar",
+        "c:\\Users\\shiva\\OneDrive\\Desktop\\App\\lib\\ojdbc11.jar"
+    ]
+}
